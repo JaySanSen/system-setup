@@ -20,3 +20,12 @@
 - example ~/.config/nvim -> for neovim, ~/.config/Code -> for vscode
 - To help manage the config files use symlinks and keep the files in a separate directory and mirror them in the .config folder. 
 - [How to create a symlink](https://gist.github.com/JaySanSen/07f5855a7a0fe728f21d04240d972f85)
+
+## which command
+- this is used to locate the executable file associated with a command
+- ex: which bash
+
+```
+~/Desktop/personal/system-setup$ which bash
+/usr/bin/bash
+```
